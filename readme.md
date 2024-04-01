@@ -24,7 +24,6 @@ Este é um projeto de ToDo List desenvolvido como parte de um curso da Rocketsea
 ```bash
 git clone https://github.com/Ig0rC/todolist-rocketseat
 ```
-````
 
 2. Navegue até o diretório do projeto:
 
