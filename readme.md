@@ -1,4 +1,3 @@
-````markdown
 # Projeto TodoList (Curso Java da Rocketseat)
 
 Este é um projeto de ToDo List desenvolvido como parte de um curso da Rocketseat. O projeto foi construído utilizando Java com Spring Boot, JPA, banco de dados H2, Lombok e Bcrypt para a criptografia de senhas.
@@ -23,7 +22,7 @@ Este é um projeto de ToDo List desenvolvido como parte de um curso da Rocketsea
 1. Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/todo-list.git
+git clone https://github.com/Ig0rC/todolist-rocketseat
 ```
 ````
 
@@ -47,13 +46,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto de alguma
 
 ## Autores
 
-- [Igor Cardoso](https://github.com/seu-usuario)
+- [Igor Cardoso](https://github.com/Ig0rC)
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-```
-
-Isso deve ser copiado e colado diretamente no arquivo README.md do seu repositório no GitHub.
-```
